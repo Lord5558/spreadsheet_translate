@@ -5,6 +5,12 @@
      by Aleksandrov M. 2022 in Amsterdam
 
 
+    This program allows to translate entire Excel workbooks/spreadsheets while preserving the format of original file. 
+    It also doesn't break math or functions in excel, just translates the text. The output is a new translated .xslx file.
+    
+    
+    E.g. it useful when you are working in a different country.
+    
     How to use? That's how:
 
 
