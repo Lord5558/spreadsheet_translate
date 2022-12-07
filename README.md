@@ -18,11 +18,13 @@
    Shell:
    > ./spreadsheet_translate.py -n file.xlsx -c "nl" -t "en"               
 
-  Args:  -n   name of the file
+  Args: 
+  
+  -n   name of the file
    
-         -c   current language of the spreadsheet (e.g. nl, en)
+  -c   current language of the spreadsheet (e.g. nl, en)
           
-         -t   target language of the spreadsheet
+  -t   target language of the spreadsheet
 
 
    
