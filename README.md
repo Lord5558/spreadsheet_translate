@@ -2,7 +2,7 @@
 
 
    Translating the spreadsheet - easy and quick
-   by Aleksandrov M. 2022 in Amsterdam
+   by Aleksandrov M. 2022, Amsterdam
 
 
    This program allows to translate entire Excel workbooks/spreadsheets while preserving the format of original file. 
@@ -18,13 +18,13 @@
    Shell:
    > ./spreadsheet_translate.py -n file.xlsx -c "nl" -t "en"               
 
-  Args: 
+  Arguments: 
   
-  -n   name of the file
+  -n      name of the file
    
-  -c   current language of the spreadsheet (e.g. nl, en)
+  -c      current language of the spreadsheet (e.g. nl, en)
           
-  -t   target language of the spreadsheet
+  -t     target language of the spreadsheet
 
 
    
