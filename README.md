@@ -25,13 +25,13 @@
    
 
 
-    >from spreadsheet_translate import Spreadsheet                            
+    from spreadsheet_translate import Spreadsheet                            
    Open the workbook
-    >spreadsheet = Spreadsheet("file.xlsx", current="nl", target="en")        
+    spreadsheet = Spreadsheet("file.xlsx", current="nl", target="en")        
    Translate all the spreadsheets
-    >spreadsheet.translate()                                                  
+    spreadsheet.translate()                                                  
    Save the workbook in the new file
-    >spreadsheet.save()                                                       
+    spreadsheet.save()                                                       
 
 
 
