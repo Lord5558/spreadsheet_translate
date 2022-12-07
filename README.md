@@ -15,8 +15,8 @@
 
 
 
-
-   >> ./spreadsheet_translate.py -n file.xlsx -c "nl" -t "en"               Does everything but via the terminal
+   Shell:
+   > ./spreadsheet_translate.py -n file.xlsx -c "nl" -t "en"               
 
     Args:  -n   name of the file
            -c   current language of the spreadsheet (e.g. nl, en)
