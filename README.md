@@ -1,7 +1,7 @@
 # spreadsheet_translate
 
 
-   Translates the spreadsheet - easy and quick
+   Translating the spreadsheet - easy and quick
    by Aleksandrov M. 2022 in Amsterdam
 
 
