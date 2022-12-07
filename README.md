@@ -13,23 +13,25 @@
     
    How to use? That's how:
 
-
+   
 
    Shell:
    > ./spreadsheet_translate.py -n file.xlsx -c "nl" -t "en"               
 
-    Args:  -n   name of the file
-           -c   current language of the spreadsheet (e.g. nl, en)
-           -t   target language of the spreadsheet
+   Args:  -n   name of the file
+          -c   current language of the spreadsheet (e.g. nl, en)
+          -t   target language of the spreadsheet
+
+   
 
 
-
-
-    from spreadsheet_translate import Spreadsheet                            import the directory
-
-    spreadsheet = Spreadsheet("file.xlsx", current="nl", target="en")        Open the workbook
-    spreadsheet.translate()                                                  Translate all the spreadsheets
-    spreadsheet.save()                                                       Save the workbook in the new file
+    >from spreadsheet_translate import Spreadsheet                            
+   Open the workbook
+    >spreadsheet = Spreadsheet("file.xlsx", current="nl", target="en")        
+   Translate all the spreadsheets
+    >spreadsheet.translate()                                                  
+   Save the workbook in the new file
+    >spreadsheet.save()                                                       
 
 
 
