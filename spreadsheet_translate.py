@@ -1,5 +1,5 @@
 """
-    Translates the spreadsheet - easy and quick
+    Translates the spreadsheet - easy and quick.          (tested in Python 3.10)
      by Aleksandrov M. 2022 in Amsterdam
 
     How to use? That's how:
