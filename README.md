@@ -1,7 +1,4 @@
-# spreadsheet_translate
-
-
-   #Translating the spreadsheet - easy and quick#
+   # Translating the spreadsheet - easy and quick#
    by Aleksandrov M. 2022, Amsterdam
 
 
@@ -15,7 +12,7 @@
 
    
 
-   #Usage:#
+   # Usage:
    > ./spreadsheet_translate.py -n file.xlsx -c "nl" -t "en"               
 
   Arguments: 
@@ -28,7 +25,7 @@
 
 
    
-   #Python:#
+   # Python:
 
     from spreadsheet_translate import Spreadsheet 
     
