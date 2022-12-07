@@ -1,6 +1,6 @@
 """
     Translates the spreadsheet - easy and quick
-     by Mykyta Aleksandrov 2022
+     by Mykyta (Lord5558) in Amsterdam 2022
 
     How to use? That's how:
 
